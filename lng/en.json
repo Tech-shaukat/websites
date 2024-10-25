@@ -1,0 +1,13 @@
+{
+
+    "title": "Welcome",
+    "description": "This is an English description.",
+    "paragraph": "This is a paragraph providing information about the website in English.",
+    "header": "Welcome",
+    "footer": "Contact Us",
+    "submit": "Submit",
+    "reset": "Reset",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email"
+}

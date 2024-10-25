@@ -1,0 +1,12 @@
+{
+    "title": "欢迎",
+    "description": "这是一个中文描述。",
+    "paragraph": "这是一个段落，用中文提供关于网站的信息。",
+    "header": "欢迎",
+    "footer": "联系我们",
+    "submit": "提交",
+    "reset": "重置",
+    "name": "姓名",
+    "phone": "电话",
+    "email": "电子邮件"
+}

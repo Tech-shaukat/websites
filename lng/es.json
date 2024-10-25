@@ -1,0 +1,12 @@
+{
+    "title": "Bienvenido",
+    "description": "Esta es una descripción en español.",
+    "paragraph": "Este es un párrafo que proporciona información sobre el sitio web en español.",
+    "header": "Bienvenido",
+    "footer": "Contáctenos",
+    "submit": "Enviar",
+    "reset": "Reiniciar",
+    "name": "Nombre",
+    "phone": "Teléfono",
+    "email": "Correo electrónico"
+}

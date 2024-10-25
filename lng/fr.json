@@ -1,0 +1,12 @@
+{
+    "title": "Bienvenue",
+    "description": "Ceci est une description en français.",
+    "paragraph": "Ceci est un paragraphe qui fournit des informations sur le site web en français.",
+    "header": "Bienvenue",
+    "footer": "Contactez-nous",
+    "submit": "Soumettre",
+    "reset": "Réinitialiser",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "email": "E-mail"
+}
